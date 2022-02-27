@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Great &amp; terrible fight at sea neer the Coast of Holland, between the English fleet commanded by General Dean, General Monk, and Vice-Admiral Pen, and the Dutch fleet commanded by Admiral Vantrump, Admiral De-Wit, Admiral Ruttier, and Vice-Admiral Evarson, with the number of ships burnt, sunk, and taken, the loss on both sides, and the manner of this great and lamentable engagement. Together with a humble representation to his Excellency the Lord Gen. Cromwel, and the officers of the Army. Published according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85578</idno>
+            <idno type="STC">Wing G1658</idno>
+            <idno type="STC">Thomason E694_8</idno>
+            <idno type="STC">ESTC R207071</idno>
+            <idno type="EEBO-CITATION">99866143</idno>
+            <idno type="PROQUEST">99866143</idno>
+            <idno type="VID">166514</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85578)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166514)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 107:E694[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Great &amp; terrible fight at sea neer the Coast of Holland, between the English fleet commanded by General Dean, General Monk, and Vice-Admiral Pen, and the Dutch fleet commanded by Admiral Vantrump, Admiral De-Wit, Admiral Ruttier, and Vice-Admiral Evarson, with the number of ships burnt, sunk, and taken, the loss on both sides, and the manner of this great and lamentable engagement. Together with a humble representation to his Excellency the Lord Gen. Cromwel, and the officers of the Army. Published according to order.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Eeles,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 9".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Naval battles --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166514:1" rendition="simple:additions"/>
+            <p>A great &amp; terrible Fight AT SEA Neer the Coaſt of HOLLAND, between the Engliſh Fleet commanded by <hi>General</hi> DEAN, <hi>General</hi> MONK, And <hi>Vice-Admiral</hi> PEN, And the Dutch Fleet commanded by
+<list>
+                  <item>Admiral <hi>VAN TRUMP,</hi>
+                  </item>
+                  <item>Admiral <hi>DE-WIT,</hi>
+                  </item>
+                  <item>Admiral <hi>RUTTIER,</hi>
+                  </item>
+                  <item>And Vice-Admiral <hi>EVARSON,</hi>
+                  </item>
+               </list>
+            </p>
+            <p>With the number of ſhips burnt, ſunk, and taken, the loſs on both ſides, and the manner of this great and lamentable En<g ref="char:EOLhyphen"/>gagement. Together with a humble Repreſentation to his Excellency the Lord Gen. <hi>Cromwel,</hi> and the Officers of the Army.</p>
+            <p>Publiſhed according to Order. <add>May 9</add>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Robert Eeles,</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:166514:2"/>
+            <pb n="3" facs="tcp:166514:2"/>
+            <head>TO HIS EXCELLENCIE The Lord General CROMVVEL;</head>
+            <opener>
+               <salute>MY LORD,</salute>
+            </opener>
+            <p>YOur juſt dealing with your Adverſaries, is matter of real Honour to your Perſon, your Enemies themſelves being Judges; your inſtructing the ignorant, your rebuking the obſtinate; your remitting the Penitent; your remitting the Innocent; your keeping Co<g ref="char:EOLhyphen"/>venant and condition of Articles with all men, have mani<g ref="char:EOLhyphen"/>feſted your proceedings both of War and Peace, to be truly Honourable to them, but eſpecially to Us, who have heard how <hi>Judah</hi>-like <hi>you have ruled with God, and have bin faithfull with the Saints,</hi> Hoſ. 11. laſt. Your ſilence before
+<pb n="4" facs="tcp:166514:3"/>the Lord, when a Cloud was upon the Camp) had great confidence, when the Lord went before you like a Pillar of Fire by night, ſhining upon your wayes, and telling you, that you ſhould be to your Enemies, as threſhing Inſtru<g ref="char:EOLhyphen"/>ments with teeth; And this your confidence in God, what boldneſs wrought it before the Battle? and what humble<g ref="char:EOLhyphen"/>neſs of mind after the Victory? refuſing honour of men, when God had put glory upon you, in ſight of all the world. It may be ſaid, <hi>Before honour goeth humility.</hi> Prov. 15.22. That may be an humbleneſs, as of neceſſity; but that humbleneſs which followeth honour, is ever matter of laſting praiſe; for, <hi>Honour upholdeth the humble in ſpirit,</hi> and victory over a mans ſelf is the greateſt conqueſt: <hi>For<g ref="char:EOLhyphen"/>tior eſt qui ſe, quam qui fortiſſima vincit Maena.</hi> Yea, this your confidence uttered did put life into your Counſels, courage into your Reſolutions, and made your Forces more forcible and active, ſo as they did the work of the Lord effective, both at <hi>Dunbar,</hi> and <hi>Worceſter,</hi> For there fell down many ſlain, becauſe the War was of God, 1 <hi>Chro.</hi> 5.22. God is the Iudge himſelf to whom both Parties at <hi>Dunbar</hi> made their appeales, God has pleaded the Cauſe of his People, and ſince theſe appeales hath given ſentence for you now twice. The iſſue muſt no longer paſs under the vain titles of meer events and chances of War. It hath been the wonder of all Lands to hear of <hi>England,</hi> how the meek of the earth here, have formerly born all manner of yoaks and oppreſſions under Royal and Epiſcopal Rulers, and how they have lately riſen like Gyants and men of might, for recovering their Liberties, to defend their juſt Rights and to bring wrong-doers to condigne puniſhment. As if the judgment (againſt <hi>Moab</hi>) written, had been ſeal<g ref="char:EOLhyphen"/>ed upon their hearts, <q>Curſed is he that doth the Work
+<pb n="5" facs="tcp:166514:3"/>of the Lord negligently, and curſed is he that with<g ref="char:EOLhyphen"/>holdeth his ſword from bloud,</q> 
+               <hi>Ier,</hi> 48.10. Neither regard<g ref="char:EOLhyphen"/>ing Nature nor Nations, that they might execute God had ſaid, <hi>Diſtreſs not Moab,</hi> Deut. 2.9. till <hi>Moab</hi> had thus ſinned. But after <hi>Moab</hi> had committed Idolatry (a ſin a<g ref="char:EOLhyphen"/>gainſt the Nation of <hi>Iſrael</hi>) he ſhall bear his curſe, that ſpares <hi>Moab:</hi> any former command of God to the contra<g ref="char:EOLhyphen"/>ry notwithſtanding. Sinfull mens changes juſtifie God and good men, in theſe changes of Times. Now <hi>England</hi> is delivered from her Enemies, and the people dwell ſafely through the mercy of God under your hand, We humbly deſire this, that after all publike expeditions againſt open enemies, you may (now) keep your ſelves from foes of your own Houſhold, from friends of your own Councel; for Chriſt himſelf was betrayed with a kiſs, wounded in the houſe of his friend: Gallant <hi>Iudas</hi> was treacherouſly flain by <hi>Demetrius:</hi> And good <hi>Ionathan</hi> captivated by <hi>Triphon</hi> pretending kindneſs to him. <q xml:lang="lat">Cura teipſum, cautus eſto, ne fidas.</q> Set the Lord God alwayes before you, wait for his counſel; let impartial juſtice be your greateſt de<g ref="char:EOLhyphen"/>ſign and be not perverted by envy or flattery of men; So run that you may obtain, in due time you ſhall reap, if you faint not. Couragiouſly follow the Captain of your Sal<g ref="char:EOLhyphen"/>vation, patiently carry the croſs after him, and let us pray for the peace of the Commonwealth of <hi>England,</hi>
+            </p>
+            <p>
+               <hi>AMEN.</hi>
+            </p>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:166514:4"/>
+            <head>To the valiant Commanders, and watchful Souldiers.</head>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>IT was an old queſtion of one <hi>Hetruſcus, Whether a Chri<g ref="char:EOLhyphen"/>ſtian may in any caſe go to war?</hi> Its anſwered, he may; for <hi>to do juſtice and judgment, is more acceptable then ſacrifice,</hi> Prov. 24.3. And its anſwered by <q>
+                  <bibl>Oſorius de Nobilit. Chri<g ref="char:EOLhyphen"/>ſtian. lib. 3.</bibl>Reſpublica non poſſ it ſtabiliri, niſi armorum preſidio, qui millitem tollit, Rempublicam funditus evertit: Chriſtus politeias non eripuit, ſed in melius inſtruit.</q> The Common<g ref="char:EOLhyphen"/>wealth cannot be ſtabliſhed, unleſs it be guarded with arms. Take away the Souldier, and ye overturn the Common<g ref="char:EOLhyphen"/>wealth. Chriſt would not aboliſh Civil Governments, but form them for the better: he neither took <hi>the Axe</hi> from the Judges; nor did <hi>Paul</hi> deny the <hi>Sword</hi> to the Magi<g ref="char:EOLhyphen"/>ſtrates; nor did <hi>John Baptiſt</hi> diſarm the Souldiers, but pre<g ref="char:EOLhyphen"/>ſcribed them Lawes of Innocency and moderation, <hi>Do vio<g ref="char:EOLhyphen"/>lence to no man, and be content with your wages,</hi> Luk. 3.13. yea, <hi>Paul</hi> calls the Magiſtrate a Miniſter of God to thee for good, thou doing well; and ſaith, he bears the Sword to execute wrath upon them that do evil. Indeed, it were to be wiſhed by every Chriſtian, that all men may contain them<g ref="char:EOLhyphen"/>ſelves from doing evil, that there were not this occaſion gi<g ref="char:EOLhyphen"/>ven for puniſhment, and for war; The boldneſs of Vice muſt be reproved by the couragiouſneſs of Vertue. Our Fathers of old were led by the Spirit for the rebuking Malefact<g ref="char:EOLhyphen"/>ors; and we know that vengeance in a private matter be<g ref="char:EOLhyphen"/>comes valour in the caſe of a Commonwealth. Patience in perſonal injuries, does in National wrongs aſſume a magna<g ref="char:EOLhyphen"/>nimity invincible, as <hi>Joſhua</hi> did; and it was a fruit of their peace with God, when our Fathers undertook <hi>Sanctiſsima
+<pb n="7" facs="tcp:166514:4"/>Bella contra ſceleratos,</hi> moſt holy wars againſt notorious offenders; for what peace? ſo long as <hi>Jezabels whoredomes, and her witchcrafts are ſo many?</hi> The end of War upon the wicked, ſhould be the quietneſs and peace of thoſe that are godly and honeſt. Humbly acquaint your ſelves with God, and be at peace among your ſelves. Couragiouſly follow the Captain of your Salvation, patiently carry his Croſs after him, faithfully commit the ſafe keeping of your ſouls in well-doing to him, and let us pray alſo for the peace of Englands Common-wealth, <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="letter">
+            <head>To the free People of <hi>England.</hi>
+            </head>
+            <opener>
+               <salute>Dear Countrey-men,</salute>
+            </opener>
+            <p>THe beſt way to ſettle the Common-wealth in a firm and laſting peace, is to look back to Rules of Equity and Iuſtice, to principles of Nature, and Right-Reaſon, to Gods Law, and good Conſcience; and every one of you muſt contribute your utmoſt hereunto: That power lyeth in you; and there is now recovered your right to uſe i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Your Liberties have been redeemed to you at a dear rate, and with great expence of bloud and Treaſure; maintain it then as free-men, and uſe your Liberty, not againſt your ſelves, but for your ſelves; Ceaſe mourning for <hi>Saul,</hi> the King and his Traines, the Body is not deſtroyed by remo<g ref="char:EOLhyphen"/>ving bad humours: Let your hearts be towards the pre<g ref="char:EOLhyphen"/>ſent Governours of <hi>England,</hi> who have willingly offered themſelves among the people, and to their ſervants, who have jeoparded their lives for your ſakes; I mean, to the
+<pb n="8" facs="tcp:166514:5"/>Officers and their Army, who have not deſigned you for their own worldly advantage, but have ſcoped at your wel<g ref="char:EOLhyphen"/>fare, who by no ſenſible feares have ſuffered themſelves to be perverted from impartial juſtice, but have bound up your ſafety and theirs in one.</p>
+            <p>On <hi>Saturday</hi> laſt came Intelligence, of a great fight be<g ref="char:EOLhyphen"/>tween the <hi>Engliſh</hi> and <hi>Dutch</hi> upon the Coaſt of <hi>Holland;</hi> and that after a ſharp Diſpute, the <hi>Engliſh</hi> became Vict<g ref="char:EOLhyphen"/>ors, and purſued the Enemy to their Ports and Harbours. In which Conflict they took ſeven ſtately ſhips, five hun<g ref="char:EOLhyphen"/>dred priſoners, burnt two, and ſunk five; but not without ſome loſs: Into the truth whereof, I ſhall make ſome fur<g ref="char:EOLhyphen"/>ther enquiry; &amp; refer you to the <hi>Moderate Occurrences</hi> for juſt and ample ſatisfaction therein.</p>
+         </div>
+         <trailer>FJNJS.</trailer>
+      </body>
+   </text>
+</TEI>
